@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": [
+        "opreter.java",
+        "mini_project.java",
+        "matrix_folder.java",
+        "datatypes_in.java",
+        "datae_&_time.java",
+        "claas_&_object.java",
+        "bitwise",
+        "awt.java",
+        "arrays.java",
+        "abstaction.java",
+        "OOPs",
+        "Inharitance.java",
+        "Encapsulation.java",
+        "DSA/arrays",
+        "DSA",
+        "pracrice.java"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}

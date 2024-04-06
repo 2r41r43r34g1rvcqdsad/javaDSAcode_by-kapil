@@ -1,0 +1,350 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "three",
+            "request": "launch",
+            "mainClass": "three",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "converting_days_into_yeras_months_days",
+            "request": "launch",
+            "mainClass": "converting_days_into_yeras_months_days",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Implementation",
+            "request": "launch",
+            "mainClass": "Implementation",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "methods",
+            "request": "launch",
+            "mainClass": "strings.methods",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "set_text_front_of_leveal",
+            "request": "launch",
+            "mainClass": "set_text_front_of_leveal",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Imp_consecpt",
+            "request": "launch",
+            "mainClass": "Important_Concept.Imp_consecpt",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "TwinsStrings",
+            "request": "launch",
+            "mainClass": "TwinsStrings",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Imp_consecpt",
+            "request": "launch",
+            "mainClass": "Imp_consecpt",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "lecture",
+            "request": "launch",
+            "mainClass": "Linkedlist.lecture",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "backTracaing",
+            "request": "launch",
+            "mainClass": "Recurison.backTracaing",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Quick_sort",
+            "request": "launch",
+            "mainClass": "Recurison.Quick_sort",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "margeSort",
+            "request": "launch",
+            "mainClass": "Recurison.margeSort",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "remove_duplicate",
+            "request": "launch",
+            "mainClass": "Recurison.remove_duplicate",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "bubble",
+            "request": "launch",
+            "mainClass": "Recurison.bubble",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Length_of_String",
+            "request": "launch",
+            "mainClass": "Recurison.Length_of_String",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Recurison.ReverseString",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "UpperCase",
+            "request": "launch",
+            "mainClass": "Recurison.UpperCase",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "findingy_min_max",
+            "request": "launch",
+            "mainClass": "Recurison.findingy_min_max",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBinarSearch",
+            "request": "launch",
+            "mainClass": "Recurison.RotatedBinarSearch",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "LinrearSearch",
+            "request": "launch",
+            "mainClass": "Recurison.LinrearSearch",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "sorted",
+            "request": "launch",
+            "mainClass": "Recurison.sorted",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "concept",
+            "request": "launch",
+            "mainClass": "Recurison.concept",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "fact",
+            "request": "launch",
+            "mainClass": "Recurison.fact",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "even",
+            "request": "launch",
+            "mainClass": "even",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "unique",
+            "request": "launch",
+            "mainClass": "unique",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "operations",
+            "request": "launch",
+            "mainClass": "operations",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Binar_Search",
+            "request": "launch",
+            "mainClass": "Recurison.Binar_Search",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "fibo",
+            "request": "launch",
+            "mainClass": "Recurison.fibo",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "Recurison.recursion",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "matrix_binarySearchh",
+            "request": "launch",
+            "mainClass": "matrix_binarySearchh",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Bank_main",
+            "request": "launch",
+            "mainClass": "Bank_main",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Data",
+            "request": "launch",
+            "mainClass": "Data",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Linearsearch",
+            "request": "launch",
+            "mainClass": "Linearsearch",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "Non_premitive",
+            "request": "launch",
+            "mainClass": "Non_premitive",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "anonymos",
+            "request": "launch",
+            "mainClass": "anonymos",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "assdress",
+            "request": "launch",
+            "mainClass": "assdress",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "bank",
+            "request": "launch",
+            "mainClass": "bank",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "bianarySearch",
+            "request": "launch",
+            "mainClass": "bianarySearch",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "increment_by_one",
+            "request": "launch",
+            "mainClass": "increment_by_one",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "leapyear",
+            "request": "launch",
+            "mainClass": "leapyear",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "matrix_multiplication",
+            "request": "launch",
+            "mainClass": "matrix_multiplication",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "opretor",
+            "request": "launch",
+            "mainClass": "opretor",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "premitive",
+            "request": "launch",
+            "mainClass": "premitive",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "project_1",
+            "request": "launch",
+            "mainClass": "project_1",
+            "projectName": "hellojava_d5ace054"
+        },
+        {
+            "type": "java",
+            "name": "tutorial",
+            "request": "launch",
+            "mainClass": "tutorial",
+            "projectName": "hellojava_d5ace054"
+        }
+    ]
+}
