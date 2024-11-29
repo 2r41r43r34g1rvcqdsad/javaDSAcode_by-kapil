@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "abstraction.example",
+            "projectName": "hellojava_465f3930"
+        },
+        {
+            "type": "java",
             "name": "three",
             "request": "launch",
             "mainClass": "three",
